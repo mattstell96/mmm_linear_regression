@@ -1,2 +1,3 @@
-# mmm_linear_regression
-This project aims to understand and apply the basics of Marketing Mix Modeling
+# Understanding Marketing Mix Modeling
+
+The goal of this project is to explore and apply the basic concepts behind Marketing Mix Modeling.
