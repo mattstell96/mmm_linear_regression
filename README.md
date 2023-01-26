@@ -37,7 +37,7 @@ While it is possible to just fit a Linear Regression model to a raw dataset cont
 
 2. **Diminishing returns:** The marginal benefit (in terms of sales, impressions, new customers...) of increasing ad investment from $1 to $100 is greater than the one that results from increasing from $500 to $599.
 
-These two concepts cannot be ignored. In particular, in every MMM project the ad investment for a given channel should always be transformed into AdStock using one of 3 functional forms: *classic AdStock, Hill AdStock, Carryover*.
+These two concepts cannot be ignored. In particular, in every MMM project the ad investment for a given channel should always be transformed into AdStock using one of 4 functional forms: *classic (exponential) AdStock, Hill AdStock, Carryover, or [Weibull AdStock](https://github.com/annalectnl/weibull-adstock/blob/master/adstock_weibull_annalect.pdf)*.
 
 💡 In this project the AdStock transformation is the most basic one: ***AdStock(t) = AdStock(t-1) * Decay_Factor + Investment(t)***
 
