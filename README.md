@@ -10,7 +10,7 @@ The goal of this project is to explore and apply the basic concepts behind Marke
 
 MMM is a family of statistical tehcniques applied to historical data to understand the attribution and the “marginal contribution” of individual factors (facebook ads, amazon ads…) on our ROI. Typical goals in MMM are:
 
-- Statisticall attribution of channels
+- Statistical attribution of channels
 - ROI Contribution of adv channels
 - Forecasting sales
 - Budget Allocation
